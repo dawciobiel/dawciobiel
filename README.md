@@ -38,8 +38,8 @@ Experienced programmer 🔹 Microservices
 
 ## ✍ Articles, papers
 
-- ✨ [Budowa dysku twardego](https://github.com/dawciobiel/dawciobiel/blob/d34d9638f4f20a2a01e4afa6288b8f559a5c6ca6/articles/dysk.twardy.od.A.do.Z)
-- ✨ [Poczta w internecie](https://github.com/dawciobiel/dawciobiel/blob/d34d9638f4f20a2a01e4afa6288b8f559a5c6ca6/articles/poczta.w.internecie)
+- ✨ [Budowa dysku twardego](articles/dysk.twardy.od.A.do.Z)
+- ✨ [Poczta w internecie](articles/poczta.w.internecie)
 
 ## 📺 Videos
 - [Skoki ze spadochronem 🚀](https://www.youtube.com/watch?v=mF98nR3KSkU)

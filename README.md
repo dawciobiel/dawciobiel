@@ -26,16 +26,13 @@ Experienced programmer 🔹 Microservices
 ## 🌍 Web pages 
 
 - [Facebook](https://www.facebook.com/dawciobiel) 🗣
-- [Twitter](https://twitter.com/przemekbykowski) 🐦
 - Quora [ [EN](https://www.quora.com/profile/Dawid-Bielecki) |
 [PL](https://pl.quora.com/profile/Dawid-Bielecki) ] 🗣
 - [Stackoverflow](https://stackoverflow.com/users/2002162/dawciobiel) 🗣
 
-  [//]: # (- 📫 [E-mail]&#40;mailto:no-spam&#40;@&#41;gmail.com&#41;)
 
 [//]: # (- 🔴 [YouTube]&#40;https://www.youtube.com/channel/???&#41;)
 [//]: # (- 🔗 [Linkedin]&#40;https://www.linkedin.com/in/dawciobiel/&#41;)
-
 
 ## ✍ Articles, papers
 
@@ -46,3 +43,8 @@ Experienced programmer 🔹 Microservices
 - [Skoki ze spadochronem 🚀](https://youtu.be/mF98nR3KSkU)
 - [Skoki na bungee 🚀](https://youtu.be/NQseYLUHWqA)
 
+[//]: # (## ✍ Contact)
+
+[//]: # (- 📫 [E-mail]&#40;mailto:no-spam&#40;@&#41;gmail.com&#41;)
+
+[//]: # (- telephone)

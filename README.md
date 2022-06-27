@@ -25,11 +25,11 @@ Experienced programmer 🔹 Microservices
 
 ## 🌍 Web pages 
 
-- 🗣 [Facebook](https://www.facebook.com/dawciobiel)
-- 🐦 [Twitter](https://twitter.com/przemekbykowski)
-- 🗣 Quora [ [EN](https://www.quora.com/profile/Dawid-Bielecki) |
-[PL](https://pl.quora.com/profile/Dawid-Bielecki) ]
-- 🗣 [Stackoverflow](https://stackoverflow.com/users/2002162/dawciobiel)
+- [Facebook](https://www.facebook.com/dawciobiel) 🗣
+- [Twitter](https://twitter.com/przemekbykowski) 🐦
+- Quora [ [EN](https://www.quora.com/profile/Dawid-Bielecki) |
+[PL](https://pl.quora.com/profile/Dawid-Bielecki) ] 🗣
+- [Stackoverflow](https://stackoverflow.com/users/2002162/dawciobiel) 🗣
 
   [//]: # (- 📫 [E-mail]&#40;mailto:no-spam&#40;@&#41;gmail.com&#41;)
 
@@ -39,10 +39,10 @@ Experienced programmer 🔹 Microservices
 
 ## ✍ Articles, papers
 
-- ✨ [Budowa dysku twardego](articles/dysk.twardy.od.A.do.Z)
-- ✨ [Poczta w internecie](articles/poczta.w.internecie)
+- [Budowa dysku twardego](articles/dysk.twardy.od.A.do.Z) ✨
+- [Poczta w internecie](articles/poczta.w.internecie) ✨
 
 ## 📺 Videos
-- [Skoki ze spadochronem 🚀](https://www.youtube.com/watch?v=mF98nR3KSkU)
-- [Skoki na bungee 🚀](https://youtu.be/) // todo
+- [Skoki ze spadochronem 🚀](https://youtu.be/mF98nR3KSkU)
+- [Skoki na bungee 🚀](https://youtu.be/NQseYLUHWqA)
 

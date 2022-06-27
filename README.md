@@ -2,7 +2,8 @@
 
 Experienced programmer 🔹 Microservices 
 
-![](https://raw.githubusercontent.com/dawciobiel/dawciobiel/main/profile-picture.jpg) // todo picture
+[//]: # (![]&#40;pictures/profile-picture.jpg&#41;)
+<img alt="profile picture" src="pictures/profile-picture.jpg" height="270" width="860">
 
 - 👋 Hi, I’m Dawid Bielecki @dawciobiel
 - 👀 I'm interested in software development

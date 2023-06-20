@@ -25,6 +25,7 @@ Experienced programmer 🔹 Microservices
 
 ## 🌍 Web pages 
 
+- [Linkedin](https://www.linkedin.com/in/dawidbielecki) 🗣
 - [Facebook](https://www.facebook.com/dawciobiel) 🗣
 - Quora [ [EN](https://www.quora.com/profile/Dawid-Bielecki) |
 [PL](https://pl.quora.com/profile/Dawid-Bielecki) ] 🗣
